@@ -1,26 +1,25 @@
-\# ARK BANK - Çok Katmanlı Güvenli Bankacılık Platformu
+ ARK BANK - Çok Katmanlı Güvenli Bankacılık Platformu
 
 
 
 Manisa Celal Bayar Üniversitesi Salihli MYO - Bilgisayar Programcılığı  
 
-\*\*Ders:\*\* BLG2109 Görsel Programlama II (GP07)  
+ BLG2109 Görsel Programlama II (GP07)  
 
-\*\*Geliştirici:\*\* Eyüp Can Arkan  
-
-
-
-\---
+ Eyüp Can Arkan  
 
 
 
-\## 🚀 Proje Hakkında
+
+
+
+Proje Hakkında
 
 ARK BANK; C# Windows Forms ve MS SQL Server kullanılarak N-Tier (Çok Katmanlı) mimari prensipleriyle geliştirilmiş, rol tabanlı yetkilendirme (RBAC), kriptografik güvenlik standartları ve akıllı tehdit algılama mekanizmalarına sahip kurumsal bir masaüstü bankacılık uygulamasıdır.
 
 
 
-\## 🛡️ Öne Çıkan Güvenlik ve FinTech İnovasyonları
+ Öne Çıkan Güvenlik ve FinTech İnovasyonları
 
 \- \*\*PBKDF2-HMAC-SHA256:\*\* 100.000 iterasyon ve kullanıcı başına 16 bayt benzersiz kriptografik Salt ile şifrelenen parola altyapısı.
 
@@ -32,9 +31,7 @@ ARK BANK; C# Windows Forms ve MS SQL Server kullanılarak N-Tier (Çok Katmanlı
 
 \- \*\*IMessageFilter Oturum Yönetimi:\*\* Fare ve klavye hareketlerini dinleyen, 10 dakika eylemsizlikte otomatik kapanan ve son 1 dakika kala uyaran canlı sayaç sistemi.
 
-
-
-\## 🛠️ Mimari Yapı
+ Mimari Yapı
 
 \- \*\*UI (Presentation Layer):\*\* Windows Forms, modern kurumsal koyu tema (`UiTheme`), dinamik placeholder (hint) desteği.
 
@@ -47,8 +44,7 @@ ARK BANK; C# Windows Forms ve MS SQL Server kullanılarak N-Tier (Çok Katmanlı
 \- \*\*Helpers:\*\* Global oturum (`Session`), `PasswordHasher`, aktivite dinleyicisi.
 
 
-
-\## 🔑 Test Hesapları
+ Test Hesapları
 
 \- \*\*Admin:\*\* `admin@banka.com` | Parola: `Admin2026!`
 
