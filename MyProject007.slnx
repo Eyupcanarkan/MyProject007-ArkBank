@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MyProject007.BLL/MyProject007.BLL.csproj" Id="56e3f2d6-0078-4f37-b17e-56fc4b65fa68" />
+  <Project Path="MyProject007.DAL/MyProject007.DAL.csproj" Id="b308654e-b2b0-46c2-9895-fa94bef06991" />
+  <Project Path="MyProject007.Entities/MyProject007.Entities.csproj" Id="c60661f1-ff6d-434d-9732-1b037258992f" />
+  <Project Path="MyProject007.Helpers/MyProject007.Helpers.csproj" Id="4bc8a4fa-c981-46fc-8efb-265e38d06c6a" />
+  <Project Path="MyProject007/MyProject007.csproj" Id="1ec970e8-6ce6-4733-96b0-a9bb58abbd51" />
+</Solution>

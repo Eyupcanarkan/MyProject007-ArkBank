@@ -1,0 +1,18 @@
+## Visual Studio Geçici Dosyaları
+.vs/
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dbmdl
+
+## Derleme Çıktıları
+*.exe
+*.dll
+*.pdb
+
+## Log Dosyaları
+*.log
+*.tmp
